@@ -192,7 +192,7 @@ function Hero() {
           >
             <div className="hero__image-wrapper">
               <img
-                src="/src/assets/foto_curriculo.png"
+                src="/img/foto_curriculo.png"
                 alt="Sky Crizosti"
                 className="hero__image"
               />
