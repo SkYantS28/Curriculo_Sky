@@ -12,6 +12,7 @@ const navItems = [
   { label: 'Publicações', href: '#publicacoes' },
   { label: 'Competências', href: '#competencias' },
   { label: 'Contato', href: '#contato' },
+  { label: 'Serviços', href: '#servicos' },
 ]
 
 function Navbar() {

@@ -1,3 +1,4 @@
+
 import Hero from '../components/Hero'
 import About from '../components/About'
 import Projects from '../components/Projects'
@@ -5,6 +6,7 @@ import Experience from '../components/Experience'
 import Education from '../components/Education'
 import Publications from '../components/Publications'
 import Skills from '../components/Skills'
+import Services from '../components/Services'
 import Contact from '../components/Contact'
 import Footer from '../components/Footer'
 
@@ -18,6 +20,7 @@ function Home() {
       <Education />
       <Publications />
       <Skills />
+      <Services />
       <Contact />
       <Footer />
     </>
