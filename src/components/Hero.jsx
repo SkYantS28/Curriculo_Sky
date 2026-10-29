@@ -3,6 +3,7 @@ import {
   ArrowDown,
   ArrowUpRight,
   Sparkles,
+  FileText,
 } from 'lucide-react'
 import './Hero.css'
 
@@ -155,6 +156,21 @@ function Hero() {
               className="hero__button hero__button--secondary"
             >
               <span>vamos conversar</span>
+            </a>
+
+            <a
+              href="/Curriculo%20(1).pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hero__button hero__button--secondary"
+              aria-label="Abrir currículo de Sky Crizosti em PDF"
+            >
+              <span>currículo</span>
+
+              <FileText
+                size={17}
+                strokeWidth={1.7}
+              />
             </a>
           </motion.div>
         </div>
