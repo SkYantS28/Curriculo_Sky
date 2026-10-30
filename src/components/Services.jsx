@@ -622,7 +622,7 @@ function Services() {
           <h3>
             Seu projeto, suas necessidades
             <br />
-            <em>e uma solução digital feita sob medida.</em>
+            <em> e uma solução digital feita sob medida.</em>
           </h3>
 
           <p className="services__footer-description">
