@@ -39,6 +39,26 @@ export const featuredProjects = [
   },
 
   {
+    id: 'arcana',
+    category: 'PROJETO EM TESTE · CÓDIGO PRIVADO',
+    title: 'Arcana',
+    subtitle: 'Gestão para atendimentos personalizados',
+    description:
+      'Aplicativo responsivo para espaços esotéricos e consultórios, reunindo agenda, consulentes, serviços, financeiro, recompensas e gestão de equipe. Disponível para web e Android, com autenticação e dados organizados por usuário.',
+    technologies: [
+      'React 19',
+      'Vite',
+      'JavaScript',
+      'Supabase',
+      'PostgreSQL',
+      'Capacitor 8',
+      'Android',
+    ],
+    type: 'private',
+    highlight: 'Em fase de testes',
+  },
+
+  {
     id: 'pizzaria-veneto',
     category: 'PROJETO ACADÊMICO · FULL STACK',
     title: 'Pizzaria Veneto',

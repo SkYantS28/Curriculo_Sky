@@ -83,7 +83,11 @@ function Projects() {
             return (
               <motion.article
                 key={project.id}
-                className={`project-card project-card--${index + 1}`}
+                className={`project-card project-card--${index + 1}${
+                  project.type === 'academic' || project.id === 'arcana'
+                    ? ' project-card--wide'
+                    : ''
+                }`}
                 variants={itemVariants}
               >
                 <div className="project-card__top">

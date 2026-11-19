@@ -168,7 +168,7 @@
   grid-column: span 1;
 }
 
-.project-card--3 {
+.project-card--wide {
   grid-column: 1 / -1;
   min-height: 390px;
 }
@@ -498,7 +498,7 @@
     grid-template-columns: 1fr;
   }
 
-  .project-card--3 {
+  .project-card--wide {
     grid-column: auto;
   }
 
@@ -535,7 +535,7 @@
     padding: 24px;
   }
 
-  .project-card--3 {
+  .project-card--wide {
     min-height: 470px;
   }
 
