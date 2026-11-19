@@ -59,6 +59,27 @@ export const featuredProjects = [
   },
 
   {
+    id: 'veneto-mobile',
+    category: 'PROJETO ACADÊMICO · APLICATIVOS HÍBRIDOS',
+    title: 'Veneto Mobile',
+    subtitle: 'Aplicativo de pedidos para restaurante e pizzaria',
+    description:
+      'Aplicativo multiplataforma desenvolvido a partir de um protótipo no Figma para uma prova da faculdade. Inclui cadastro e login, cardápio, personalização de pizzas, favoritos, carrinho, endereços e pedidos, com integração a uma API REST.',
+    technologies: [
+      'React Native',
+      'Expo',
+      'Expo Router',
+      'TypeScript',
+      'Node.js',
+      'Express',
+      'SQLite',
+      'JWT',
+    ],
+    type: 'academic',
+    highlight: 'Aplicativo multiplataforma',
+  },
+
+  {
     id: 'pizzaria-veneto',
     category: 'PROJETO ACADÊMICO · FULL STACK',
     title: 'Pizzaria Veneto',
