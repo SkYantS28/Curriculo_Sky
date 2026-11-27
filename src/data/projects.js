@@ -59,6 +59,19 @@ export const featuredProjects = [
   },
 
   {
+    id: 'comandos-do-pato',
+    category: 'PROJETO ACADÊMICO · COLABORAÇÃO',
+    title: 'Comandos do Pato',
+    subtitle: 'Jogo educativo de lógica de programação',
+    description:
+      'Jogo 2D desenvolvido em Python com Pygame CE, no qual o jogador organiza comandos para guiar um pato até a capivara. A proposta trabalha sequenciamento, decomposição de problemas, orientação espacial, repetição e depuração.',
+    technologies: ['Python', 'Pygame CE'],
+    type: 'academic',
+    link: 'https://github.com/JohnnyCleto/Comandos_do_Pato',
+    highlight: 'Projeto acadêmico colaborativo',
+  },
+
+  {
     id: 'veneto-mobile',
     category: 'PROJETO ACADÊMICO · APLICATIVOS HÍBRIDOS',
     title: 'Veneto Mobile',

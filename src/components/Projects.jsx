@@ -131,14 +131,18 @@ function Projects() {
                     {project.highlight}
                   </span>
 
-                  {project.type === 'link' && (
+                  {project.link && (
                     <a
                       href={project.link}
                       target="_blank"
                       rel="noreferrer"
                       className="project-card__link"
                     >
-                      <span>visitar projeto</span>
+                      <span>
+                        {project.type === 'link'
+                          ? 'visitar projeto'
+                          : 'ver no GitHub'}
+                      </span>
                       <ArrowUpRight
                         size={16}
                         strokeWidth={1.6}
