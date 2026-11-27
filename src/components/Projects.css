@@ -160,19 +160,6 @@
   transform: scale(1.35);
 }
 
-.project-card--1 {
-  grid-column: span 1;
-}
-
-.project-card--2 {
-  grid-column: span 1;
-}
-
-.project-card--wide {
-  grid-column: 1 / -1;
-  min-height: 390px;
-}
-
 .project-card__top,
 .project-card__bottom {
   position: relative;
@@ -498,10 +485,6 @@
     grid-template-columns: 1fr;
   }
 
-  .project-card--wide {
-    grid-column: auto;
-  }
-
   .projects__ui-header {
     grid-template-columns: 1fr;
     gap: 30px;
@@ -533,10 +516,6 @@
   .project-card {
     min-height: 470px;
     padding: 24px;
-  }
-
-  .project-card--wide {
-    min-height: 470px;
   }
 
   .project-card h3 {
