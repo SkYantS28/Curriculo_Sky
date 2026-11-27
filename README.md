@@ -418,6 +418,14 @@ Na dinâmica do jogo, a pessoa jogadora organiza uma sequência de comandos para
 
 **Repositório:** [Comandos do Pato no GitHub](https://github.com/JohnnyCleto/Comandos_do_Pato)
 
+### Veneto Mobile
+
+Aplicativo acadêmico multiplataforma para pedidos em restaurante e pizzaria, desenvolvido com React Native e Expo. O projeto inclui navegação com Expo Router e funcionalidades como cadastro e login, cardápio, personalização de pizzas, favoritos, carrinho, endereços e pedidos, com integração a uma API REST.
+
+**Tecnologias:** React Native · Expo · Expo Router · TypeScript · Node.js · Express · SQLite · JWT
+
+**Repositório:** [Veneto Mobile no GitHub](https://github.com/SkYantS28/P1_LabHibrido)
+
 ### Pizzaria Veneto
 
 Projeto acadêmico Full Stack desenvolvido para apoiar operações e gestão de uma pizzaria.

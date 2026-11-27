@@ -89,6 +89,7 @@ export const featuredProjects = [
       'JWT',
     ],
     type: 'academic',
+    link: 'https://github.com/SkYantS28/P1_LabHibrido',
     highlight: 'Aplicativo multiplataforma',
   },
 
