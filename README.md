@@ -402,6 +402,22 @@ O projeto contempla uma estrutura web voltada à organização de conteúdo e ap
 
 **Tecnologias:** React · Vite · JavaScript · HTML5 · CSS3 · Azure
 
+### Comandos do Pato
+
+Projeto acadêmico colaborativo: jogo educativo 2D desenvolvido em Python com Pygame Community Edition. Atuei como colaboradora no desenvolvimento do projeto.
+
+Na dinâmica do jogo, a pessoa jogadora organiza uma sequência de comandos para conduzir um pato até uma capivara. Essa abordagem transforma conceitos de programação em desafios interativos e estimula:
+
+- **Sequenciamento lógico:** compreender como a ordem das instruções afeta o resultado.
+- **Decomposição de problemas:** planejar trajetos por meio de etapas menores.
+- **Orientação espacial:** considerar direção, movimentos e mudanças no cenário.
+- **Repetição:** reaproveitar ações para construir sequências mais eficientes.
+- **Depuração:** analisar erros, ajustar os comandos e tentar novamente.
+
+**Tecnologias:** Python · Pygame Community Edition
+
+**Repositório:** [Comandos do Pato no GitHub](https://github.com/JohnnyCleto/Comandos_do_Pato)
+
 ### Pizzaria Veneto
 
 Projeto acadêmico Full Stack desenvolvido para apoiar operações e gestão de uma pizzaria.
